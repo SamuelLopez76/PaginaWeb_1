@@ -1,0 +1,7 @@
+/*Vamos a darle estilo a la página*/
+
+body{
+    background-color: rgb(3, 98, 11);
+    color: white;
+    font-size: 18pt;
+}
